@@ -87,12 +87,15 @@ Aktor
 ---
 
 1. Sequence Diagram Customer
+
 ![sequenceCust](https://github.com/ramadhaniprasety0/Proyek_Akhir_APBO_Kelompok4_ServiceAC/assets/109285562/17855a11-8f12-4c73-8797-20bfbfa6cf1b)
 
-2. Sequence Diagram Admin
+3. Sequence Diagram Admin
+   
 ![sequenceAdmin](https://github.com/ramadhaniprasety0/Proyek_Akhir_APBO_Kelompok4_ServiceAC/assets/109285562/9526a5da-e9f8-4cf1-a1c0-c4bde01d7583)
 
-4. Sequence Diagram Teknisi
+5. Sequence Diagram Teknisi
+
 ![sequenceTeknisi](https://github.com/ramadhaniprasety0/Proyek_Akhir_APBO_Kelompok4_ServiceAC/assets/109285562/4828e3e9-599f-4858-a86d-e21f758d1ca0)
 
 Penjelasan:
@@ -136,6 +139,7 @@ Penjelasan:
 --- 
 
 ### Activity Diagram
+
 ![ActivityDiagram](https://github.com/ramadhaniprasety0/Proyek_Akhir_APBO_Kelompok4_ServiceAC/assets/109285562/0a6331af-ef80-4816-8bcb-77ac8a9f5038)
 
 Alur Aktivitas:
@@ -162,48 +166,61 @@ Alur Aktivitas:
 
 #### Interface Customer
 **Tampilan Login Customer**
+
 ![Page (3)](https://github.com/ramadhaniprasety0/Proyek_Akhir_APBO_Kelompok4_ServiceAC/assets/109285562/0f8a04f8-6f17-43e9-bee0-67c060efb16d)
 
 **Tampilan Daftar Customer**
+
 ![Page (4)](https://github.com/ramadhaniprasety0/Proyek_Akhir_APBO_Kelompok4_ServiceAC/assets/109285562/9e9a1812-b704-4198-9ffb-db0dfd139c91)
 
 **Home Page Customer**
+
 ![Page (5)](https://github.com/ramadhaniprasety0/Proyek_Akhir_APBO_Kelompok4_ServiceAC/assets/109285562/c4159b0e-70b9-4aed-bf10-533a53e85725)
 
 **Memesan Layanan**
+
 ![Page (6)](https://github.com/ramadhaniprasety0/Proyek_Akhir_APBO_Kelompok4_ServiceAC/assets/109285562/e2088b74-454b-415c-9ccf-7bb5e18fbc17)
 
 **Riwayat Pemesanan**
+
 ![Page (7)](https://github.com/ramadhaniprasety0/Proyek_Akhir_APBO_Kelompok4_ServiceAC/assets/109285562/b875daaf-c1d2-4923-a372-4fc3bc7ea4cb)
 
 ---
 
 #### Interface Admin
 **Tampilan Dashboard Admin**
+
 ![Page (8)](https://github.com/ramadhaniprasety0/Proyek_Akhir_APBO_Kelompok4_ServiceAC/assets/109285562/70d6a76b-2836-4fdd-bd4e-4d4f9ae260d7)
 
 **Konfirmasi Pesanan**
+
 ![Page (9)](https://github.com/ramadhaniprasety0/Proyek_Akhir_APBO_Kelompok4_ServiceAC/assets/109285562/5e112f49-9d5d-4775-9a73-14e24ffd3ad2)
 
 **Pengaturan**
+
 ![Page (10)](https://github.com/ramadhaniprasety0/Proyek_Akhir_APBO_Kelompok4_ServiceAC/assets/109285562/63cbb803-dd31-4fc4-a74a-44f9b453edd8)
 
 **Pengaturan Layanan**
+
 ![Page (11)](https://github.com/ramadhaniprasety0/Proyek_Akhir_APBO_Kelompok4_ServiceAC/assets/109285562/f65b3ba1-8fd1-494a-963d-622fa2af3f29)
 
 **Pengaturan Staff/Teknisi**
+
 ![Page (12)](https://github.com/ramadhaniprasety0/Proyek_Akhir_APBO_Kelompok4_ServiceAC/assets/109285562/81718cf2-ff2f-47b8-b416-d8857245f624)
 
 ---
 
 ### Interface Teknisi
 **Tampilan Dashboard Teknisi**
+
 ![Page (13)](https://github.com/ramadhaniprasety0/Proyek_Akhir_APBO_Kelompok4_ServiceAC/assets/109285562/0263d2c7-1338-4fea-9560-21d49f30edf0)
 
 **Mengupdate Status Pesanan**
+
 ![Page (14)](https://github.com/ramadhaniprasety0/Proyek_Akhir_APBO_Kelompok4_ServiceAC/assets/109285562/97c89a3b-2c52-408a-81ac-d86c3cefa273)
 
 **Pembayaran**
+
 ![Page (15)](https://github.com/ramadhaniprasety0/Proyek_Akhir_APBO_Kelompok4_ServiceAC/assets/109285562/006d785a-e903-4ff3-936c-cda6a2dd2eda)
 
 
